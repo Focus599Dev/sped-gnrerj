@@ -1,9 +1,8 @@
 {
-    "name": "nfephp-org/sped-gnre",
-    "type": "library",
+    "name": "Focus599Dev/sped-gnrerj",
     "description": "API para a emissão de guias GNRE para a SEFAZ RJ",
-    "keywords": ["nfe","nfce","sped","nfephp", "gnre"],
-    "homepage": "https://github.com/Focus599Dev/sped-gnre-js/edit/master/composer.json",
+    "keywords": ["sped","nfephp", "gnre"],
+    "homepage": "https://github.com/Focus599Dev/sped-gnrerj",
     "license": ["GPL-3.0+","LGPL-3.0+", "MIT"],
     "authors": [
         {
